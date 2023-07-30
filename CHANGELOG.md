@@ -1,5 +1,19 @@
 # Changelog
 
+## [6.3.0](https://github.com/LazyVim/LazyVim/compare/v6.2.0...v6.3.0) (2023-07-30)
+
+
+### Features
+
+* **clangd:** remove CMakelists root_dir search ([#1230](https://github.com/LazyVim/LazyVim/issues/1230)) ([9264c54](https://github.com/LazyVim/LazyVim/commit/9264c54ae96d1d56f029ad9b561326c7b991c53b))
+* **treesitter:** add jsdoc to ensure_installed ([#1252](https://github.com/LazyVim/LazyVim/issues/1252)) ([566049a](https://github.com/LazyVim/LazyVim/commit/566049aa4a26a86219dd1ad1624f9a1bf18831b6))
+
+
+### Bug Fixes
+
+* **yaml:** yaml validate and enable line folding ([#1251](https://github.com/LazyVim/LazyVim/issues/1251)) ([a62a594](https://github.com/LazyVim/LazyVim/commit/a62a5942deb281b9edce3673e656854805297199))
+* **yaml:** yaml: Fix TypeError undefined length ([#1229](https://github.com/LazyVim/LazyVim/issues/1229)) ([d7ca822](https://github.com/LazyVim/LazyVim/commit/d7ca822d41bc65e31dc1019a64d5d3518c8e2470))
+
 ## [6.2.0](https://github.com/LazyVim/LazyVim/compare/v6.1.0...v6.2.0) (2023-07-25)
 
 
